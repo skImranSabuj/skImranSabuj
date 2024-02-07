@@ -2,18 +2,14 @@
 
 Passionate about crafting seamless mobile and web applications, I bring over 2 years of experience in React Native, React, and web development. I specialize in turning design visions into reality and leading small development teams. 
 
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skImranSabuj&show_icons=true&theme=radical)](https://github.com/skImranSabuj)
-
 
 ## 🚀 Skills
-- React Native
-- React
-- Web Development (HTML, CSS, Node.js)
-- JavaScript
-- Cross-platform Mobile App Development
-- Project Management
-- Responsive Design Implementation
+[![React Native](https://img.shields.io/badge/React_Native-%231DA1F2?logo=react&logoColor=white)](https://reactnative.dev/)
+[![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 
 ## 📱 Projects
 - **Alagzoo FundTime App**
