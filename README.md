@@ -2,6 +2,11 @@
 
 Passionate about crafting seamless mobile and web applications, I bring over 2 years of experience in React Native, React, and web development. I specialize in turning design visions into reality and leading small development teams. 
 
+## 📊 GitHub Stats
+[![Lifetime Commits](https://img.shields.io/github/commit-activity/m/skImranSabuj/skImranSabuj?label=Lifetime%20Commits)](https://github.com/skImranSabuj/skImranSabuj)
+[![Last Year Commits](https://img.shields.io/github/commit-activity/y/skImranSabuj/skImranSabuj?label=Last%20Year%20Commits)](https://github.com/skImranSabuj/skImranSabuj)
+
+
 ## 🚀 Skills
 - React Native
 - React
