@@ -1,6 +1,13 @@
 # Hi, I'm Khaja Sheikh Imran Sabuj 👋
 
-Passionate about crafting seamless mobile and web applications, I bring over 2 and a half years of experience in React Native, React, and web development. I specialize in turning design visions into reality and leading small development teams. 
+
+## 🚀 Quick Stats
+- 2️⃣ years and 4️⃣ months of professional experience
+- 👨‍💻 Good at 👉🏻  [![React Native](https://img.shields.io/badge/React_Native-%231DA1F2?logo=react&logoColor=white)](https://reactnative.dev/)
+[![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)](https://reactjs.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) .
+- 📱 Published 6️⃣ apps on ![Play Store](https://img.shields.io/badge/Play_Store-%2300ACCE?logo=google-play&logoColor=white) and 4️⃣ on ![App Store](https://img.shields.io/badge/App_Store-%2319B1EA?logo=app-store&logoColor=white)
+- 💻 Developed 3️⃣+ professional websites and dozens of others.
+- 🌐 Experienced in leading small dev teams.
 
 
 ## 🚀 Skills
@@ -45,6 +52,6 @@ Passionate about crafting seamless mobile and web applications, I bring over 2 a
 
 ## 📬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/skimransabuj)
-- [Portfolio]((https://skimransabuj.netlify.app/))
+- [Portfolio](https://skimransabuj.netlify.app/) (Note: Currently not maintained)
 
 Feel free to explore my repositories and get in touch for collaboration opportunities. Happy coding! 🚀
