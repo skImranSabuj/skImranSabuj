@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Khaja Sheikh Imran Sabuj 👋
 
-<!--
-**skImranSabuj/skImranSabuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about crafting seamless mobile and web applications, I bring over 2 years of experience in React Native, React, and web development. I specialize in turning design visions into reality and leading small development teams. 
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- React Native
+- React
+- Web Development (HTML, CSS, Node.js)
+- JavaScript
+- Cross-platform Mobile App Development
+- Project Management
+- Responsive Design Implementation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projects
+- **Alagzoo FundTime App**
+  - Lead developer for a dynamic React Native app with standard, lite modes, and multiple white-label versions.
+  - Features include video calls, chat, appointment booking, and time-bound programs.
+
+## 📬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/skimransabuj)
+- [Portfolio]([https://yourportfolio.com](https://skimransabuj.netlify.app/))
+
+Feel free to explore my repositories and get in touch for collaboration opportunities. Happy coding! 🚀
