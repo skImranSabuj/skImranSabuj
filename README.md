@@ -43,6 +43,8 @@
   - Comprehensive features: video appointments, real-time chat, time-bound programs, assessments, and rich article/video resources
   - Empowers coaches with the Coach App for curating articles, videos, workshops, and program assignments
   - Technologies: React Native, TypeScript, Zustand, VideoSdk, Vimeo, OneSignal, and various third-party libraries for seamless functionality and enhanced user engagement
+  - 🎥 [Student App Demo](https://youtu.be/CewcTH9nGsE)
+  - 🎥 [Coach App Demo](https://youtu.be/JUnCmITmHR4)
 
 - **TELEDOC Mobile & Web Apps [@BDEMR]**
   - Unified telemedicine functionalities across web and mobile platforms
