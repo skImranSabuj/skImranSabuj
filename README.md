@@ -3,7 +3,7 @@
 Passionate about crafting seamless mobile and web applications, I bring over 2 years of experience in React Native, React, and web development. I specialize in turning design visions into reality and leading small development teams. 
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skImranSabuj&show_icons=true&theme=radical)](https://github.com/skImranSabuj)
 
 
 ## 🚀 Skills
