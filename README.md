@@ -3,8 +3,10 @@
 
 ## 🚀 Quick Stats
 - 2️⃣ years and 4️⃣ months of professional experience
-- 👨‍💻 Good at 👉🏻  [![React Native](https://img.shields.io/badge/React_Native-%231DA1F2?logo=react&logoColor=white)](https://reactnative.dev/)
-[![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)](https://reactjs.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) .
+- 👨‍💻 Good at 👉🏻   [![React Native](https://img.shields.io/badge/React_Native-%231DA1F2?logo=react&logoColor=white)](https://reactnative.dev/)
+  [![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)](https://reactjs.org/) 
+  [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
+  [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 - 📱 Published 6️⃣ apps on ![Play Store](https://img.shields.io/badge/Play_Store-%2300ACCE?logo=google-play&logoColor=white) and 4️⃣ on ![App Store](https://img.shields.io/badge/App_Store-%2319B1EA?logo=app-store&logoColor=white)
 - 💻 Developed 3️⃣+ professional websites and dozens of others.
 - 🌐 Experienced in leading small dev teams.
@@ -14,9 +16,13 @@
 [![React Native](https://img.shields.io/badge/React_Native-%231DA1F2?logo=react&logoColor=white)](https://reactnative.dev/)
 [![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-%23764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
+[![Zustand](https://img.shields.io/badge/Zustand-%232c3e50?color=brown&logoColor=white)](https://zustand-demo.pmnd.rs/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00?color=red&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
