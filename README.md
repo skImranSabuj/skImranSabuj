@@ -10,6 +10,17 @@ Passionate about crafting seamless mobile and web applications, I bring over 2 y
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![Chrome Dev Tool](https://img.shields.io/badge/Chrome_Dev_Tool-%234285F4?logo=google-chrome&logoColor=white)](https://developers.google.com/web/tools/chrome-devtools)
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
+[![Jira](https://img.shields.io/badge/Jira-%230A83DC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![XCode](https://img.shields.io/badge/XCode-%23147EFB?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-%2347A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/products/compass)
+[![Slack](https://img.shields.io/badge/Slack-%234A154B?logo=slack&logoColor=white)](https://slack.com/)
 
 ## 📱 Projects
 - **Alagzoo FundTime App**
