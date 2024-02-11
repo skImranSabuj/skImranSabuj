@@ -59,7 +59,10 @@
   - Smooth video consultations, clinic management, and comprehensive healthcare utilities
 
 ## 📬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/skimransabuj)
-- [Portfolio](https://skimransabuj.netlify.app/) (Note: Currently not maintained)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/skimransabuj)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=github&logoColor=white&logoWidth=20)](https://skimransabuj.netlify.app/) <sub><sup>*Note: Currently not maintained*</sup></sub>
+
+
+
 
 Feel free to explore my repositories and get in touch for collaboration opportunities. Happy coding! 🚀
