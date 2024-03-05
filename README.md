@@ -2,7 +2,7 @@
 
 
 ## 🚀 Quick Stats
-- 2️⃣ years and 4️⃣ months of professional experience
+- 2️⃣ years and 5️⃣ months of professional experience
 - 👨‍💻 Good at 👉🏻   [![React Native](https://img.shields.io/badge/React_Native-%231DA1F2?logo=react&logoColor=white)](https://reactnative.dev/)
   [![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)](https://reactjs.org/) 
   [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
