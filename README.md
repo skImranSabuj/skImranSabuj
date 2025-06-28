@@ -94,7 +94,7 @@
   <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap;">
     <div>
       <h3>🏢 Office GitHub Profile Preview</h3>
-      <a href="https://git.io/streak-stats">
+      <a href="https://github.com/sabuj-00124">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=sabuj-00124&theme=dark&mode=weekly&card_width=450&card_height=180" alt="Office GitHub Streak" />
       </a>
     </div>
