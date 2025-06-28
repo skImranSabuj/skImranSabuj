@@ -2,6 +2,7 @@
 
 
   ## 🚀 Quick Stats
+
   - 3️⃣ years and 6️⃣ months of professional experience
   - 👨‍💻 Good at 👉🏻  
   [![React Native](https://img.shields.io/badge/React_Native-%231DA1F2?logo=react&logoColor=white)](https://reactnative.dev/)  
