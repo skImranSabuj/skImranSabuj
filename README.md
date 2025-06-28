@@ -86,7 +86,31 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/skimransabuj)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=github&logoColor=white&logoWidth=20)](https://skimransabuj.netlify.app/) <sub><sup>*Note: Currently not maintained*</sup></sub>
 
+## 👔 Office GitHub Profile Preview
+
+> Here’s a quick look at my work account on GitHub!
+
+<p align="center">
+  <a href="https://github.com/sabuj-00124">
+    <img src="https://github-readme-stats.vercel.app/api?username=sabuj-00124&show_icons=true&theme=radical" alt="GitHub Stats" height="160px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabuj-00124&theme=radical" alt="GitHub Streak" height="160px"/>
+  </a>
+</p>
 
 
+## 👔 GitHub Profile Preview
 
-Feel free to explore my repositories and get in touch for collaboration opportunities. Happy coding! 🚀
+> Here’s a quick look at my work account on GitHub!
+
+<p align="center">
+  <a href="https://github.com/skImranSabuj">
+    <img src="https://github-readme-stats.vercel.app/api?username=skImranSabuj&show_icons=true&theme=radical" alt="GitHub Stats" height="160px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=skImranSabuj&theme=radical" alt="GitHub Streak" height="160px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/skImranSabuj">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skImranSabuj&layout=compact&theme=radical" alt="Top Languages" height="120px"/>
+  </a>
+</p>
