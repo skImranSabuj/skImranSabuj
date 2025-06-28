@@ -84,10 +84,10 @@
 
 ## 📬 Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/skimransabuj)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=github&logoColor=white&logoWidth=20)](https://skimransabuj.netlify.app/) <sub><sup>*Note: Currently not maintained*</sup></sub>
+- [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=github&logoColor=white&logoWidth=20)](https://skimransabuj.netlify.app/)
 
 
-
+## 📬 Github stats!
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap;">
