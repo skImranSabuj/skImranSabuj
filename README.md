@@ -86,31 +86,39 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/skimransabuj)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=github&logoColor=white&logoWidth=20)](https://skimransabuj.netlify.app/) <sub><sup>*Note: Currently not maintained*</sup></sub>
 
-## 👔 Office GitHub Profile Preview
-
-> Here’s a quick look at my work account on GitHub!
-
-<p align="center">
-  <a href="https://github.com/sabuj-00124">
-    <img src="https://github-readme-stats.vercel.app/api?username=sabuj-00124&show_icons=true&theme=radical" alt="GitHub Stats" height="160px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabuj-00124&theme=radical" alt="GitHub Streak" height="160px"/>
-  </a>
-</p>
 
 
-## 👔 GitHub Profile Preview
 
-> Here’s a quick look at my work account on GitHub!
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap;">
+    <div>
+      <h3>🏢 Office GitHub Profile Preview</h3>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=sabuj-00124&theme=dark&mode=weekly&card_width=450&card_height=180" alt="Office GitHub Streak" />
+      </a>
+    </div>
+    <div>
+      <h3>🏠 Personal GitHub Profile Preview</h3>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=skimransabuj&theme=dark&mode=weekly&card_width=450&card_height=180" alt="Personal GitHub Streak" />
+      </a>
+    </div>
+  </div>
+  <br />
+   <div>
+      <a href="https://github.com/skImranSabuj">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=skImranSabuj&layout=compact&theme=radical" 
+          alt="Top Languages" 
+          style="width: 500px; height: 250px;"
+        />
+      </a>
+    </div>
 
-<p align="center">
-  <a href="https://github.com/skImranSabuj">
-    <img src="https://github-readme-stats.vercel.app/api?username=skImranSabuj&show_icons=true&theme=radical" alt="GitHub Stats" height="160px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=skImranSabuj&theme=radical" alt="GitHub Streak" height="160px"/>
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/skImranSabuj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skImranSabuj&layout=compact&theme=radical" alt="Top Languages" height="120px"/>
-  </a>
-</p>
+
+
+
+
+
