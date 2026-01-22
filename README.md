@@ -3,7 +3,7 @@
 
   ## 🚀 Quick Stats
 
-  - 4+ of professional experience
+  - 4+ years of professional experience
   - 👨‍💻 Good at 👉🏻  
   [![React Native](https://img.shields.io/badge/React_Native-%231DA1F2?logo=react&logoColor=white)](https://reactnative.dev/)  
   [![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)](https://reactjs.org/)  
